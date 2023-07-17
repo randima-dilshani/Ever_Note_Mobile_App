@@ -1,4 +1,4 @@
-Ever-Note
+Ever-Note Mobile Application
 
 The Ever-Note mobile application is designed to be a student subjects notes management app that will help students keep track of their studied lessons and important points to remember. The app is aimed at providing students with an easy and convenient way to organize their notes and ensure that they do not forget any important information.
 
